@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_add_seccion"
+        android:title="Agregar Sección"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sort"
+        android:title="Ordenar A-Z"
+        app:showAsAction="never" />
+</menu>
